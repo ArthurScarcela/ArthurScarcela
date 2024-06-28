@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Arthur</h2>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExanQ5c3N3dzl5a2VzN2N3ZnN0b3lkNng4emRnNG5rcTE2bjQ2cm12MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eNAsjO55tPbgaor7ma/giphy.gif"  />
 
 ###
 
